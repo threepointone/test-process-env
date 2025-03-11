@@ -1,0 +1,6 @@
+{
+  "name": "my-worker",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-11",
+  "compatibility_flags": ["nodejs_compat", "nodejs_compat_populate_process_env"]
+}
